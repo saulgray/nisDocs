@@ -1,0 +1,11 @@
+email: saulgrayer@gmail.com
+fullname: 'Saul Gray'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$U/hQEB6iJwAX3o0Z5qv6/uzx..ck10BPqdZH32hpQz6bEHYFVP9Le
