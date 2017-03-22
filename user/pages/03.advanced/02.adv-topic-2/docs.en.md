@@ -1,8 +1,10 @@
 ---
-title: Advanced Topic 2
+title: 'Advanced Topic 2'
 taxonomy:
     category: docs
 ---
+
+### testing syncing from repo to live spriteHit
 
 Lorem markdownum vides aram est sui istis excipis Danai elusaque manu fores.
 Illa hunc primo pinum pertulit conplevit portusque pace *tacuit* sincera. Iam
@@ -69,3 +71,5 @@ Populi et emicat et pectora concussit precibus qui et Hector flammis. Pergama
 tenebrisque certe arbiter superfusis genetrix fama; cornu conlato foedere
 adspexisse **rivos quoque** nec profugos nunc, meritisne
 [carbasa](http://reddit.com/r/thathappened).
+
+did the webhook get set up correctly? Let's see!

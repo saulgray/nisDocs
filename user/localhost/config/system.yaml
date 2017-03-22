@@ -16,7 +16,7 @@ languages:
   http_accept_language: true
   override_locale: true
 home:
-  alias: /basics
+  alias: /introduction/1-1-general-information
   hide_in_urls: false
 pages:
   theme: learn2
