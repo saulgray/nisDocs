@@ -1,24 +1,26 @@
 ---
 title: '2.1. Heart beat request'
 taxonomy:
-    category: docs
+    category:
+        - docs
 process:
+    markdown: true
     twig: true
 ---
 
-API path: `/heartbeat`
-Request type: `GET`
+| API path:    | Request type:   |
+|--------------|:----------------|
+| `/heartbeat` | `GET`           |
 
-#### Description:
-
+##### Description:
 Determines if NIS is up and responsive.
-#### No Parameter
 
-Example:
+##### No Parameter.
+##### Example:
 ```
 http://127.0.0.1:7890/heartbeat
 ```
-#### Example of returned JSON object:
+##### Example of returned JSON object:
 ```json
 {
     "code": 1,
@@ -26,6 +28,6 @@ http://127.0.0.1:7890/heartbeat
     "message": "ok"
 }
 ```
-#### Possible Errors:
 
+##### Possible Errors:
 If there is no response to this request, NIS is either not running or is in a state where it can't serve requests.
