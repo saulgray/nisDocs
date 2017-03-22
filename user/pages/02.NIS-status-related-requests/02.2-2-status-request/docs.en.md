@@ -12,16 +12,16 @@ taxonomy:
 ##### Description:
 Determines the status of NIS.
 
-##### No Parameter.
+##### No Parameter
 ##### Example:
 ```
 http://127.0.0.1:7890/status
 ```
 ##### Example of returned JSON object:
 ```json
-{ 
-    "code": 6, 
-    "type": 4, 
+{
+    "code": 6,
+    "type": 4,
     "message": "status"
 }
 ```
